@@ -5,11 +5,14 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "deploy": "gh-pages -d dist"
   },
+  "homepage": "https://xanderios.github.io/hello-world",
   "dependencies": {
     "autoprefixer": "^9.8.5",
     "core-js": "^3.6.5",
+    "gh-pages": "^3.1.0",
     "tailwindcss": "^1.5.2",
     "vue": "^2.6.11",
     "vue-headful": "^2.1.0"
