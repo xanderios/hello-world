@@ -1,24 +1,11 @@
-# portfolio
+## Alexandre - Portfólio
 
-## Project setup
-```
-npm install
-```
+###### Portfólio desenvolvido em Vue.js para demonstrar um pouco do meu conhecimento a respeito de desenvolvimento.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+---
 
-### Compiles and minifies for production
-```
-npm run build
-```
+#### ⚡️ Tecnologias utilizadas
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- [Vue.js](https://vuejs.org)
+- [TailwindCSS](https://tailwindcss.com)
+- [Sass](https://sass-lang.com)
