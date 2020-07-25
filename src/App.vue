@@ -1,5 +1,6 @@
 <template>
   <div id="app" class="container mx-auto p-16 sm:p-12 lg:pt-20 text-gray-800">
+    <vue-headful title="Alexandre - Portfólio" />
     <h2 class="text-4xl sm:text-6xl font-medium">Olá</h2>
     <h2 class="text-2xl sm:text-4xl font-medium mt-4">
       Meu nome é Alexandre
