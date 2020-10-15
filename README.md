@@ -1,10 +1,10 @@
-## Alexandre - Portfólio
+# Alexandre - Portfólio
 
-###### Portfólio desenvolvido em Vue.js para demonstrar um pouco do meu conhecimento a respeito de desenvolvimento.
+Personal Portfolio developed in Vue.js to show a bit of my knowledge in regards to development.
 
----
+_Read this in other languages: [English](README.md), [Português](README.br.md)_
 
-#### ⚡️ Tecnologias utilizadas
+#### Technologies ⚡️
 
 - [Vue.js](https://vuejs.org)
 - [TailwindCSS](https://tailwindcss.com)
