@@ -11,13 +11,12 @@
         experiência.
       </p>
       <p class="text-xl sm:text-3xl">
-        Experiente em HTML, CSS/<Link
-          text="Sass"
-          href="https://sass-lang.com"
-        />, JavaScript, <Link text="React" href="https://reactjs.org" /> e
-        <Link text="NodeJS" href="https://nodejs.org" />, também possuo
-        conhecimento em <Link text="Vue" href="https://vuejs.org" />,
-        <Link text="MongoDB" href="https://www.mongodb.com/" /> e MySQL.
+        Experiente com HTML, CSS, 
+        <Link text="Sass" href="https://sass-lang.com"/>, 
+        JavaScript, 
+        <Link text="React" href="https://reactjs.org" />, 
+        <Link text="Vue" href="https://vuejs.org" /> e 
+        <Link text="NodeJS" href="https://nodejs.org" />.
       </p>
       <p class="text-xl sm:text-3xl">
         Você pode me encontrar no
@@ -28,13 +27,13 @@
         />. Aqui estão alguns de meus projetos:
         <ul>
           <li><Link text="Boookmarker" href="https://boookmarker.herokuapp.com" /></li>
+          <li><Link text="Offices (senior test)" href="https://github.com/xanderios/senior-frontend-test" /></li>
           <span class="text-gray-500">Em breve...</span>
         </ul>
       <!-- eslint-disable-next-line prettier/prettier -->
       </p>
       <p class="text-xl sm:text-3xl">
-        No meu tempo livre, gosto de praticar esportes, ler livros de contos e
-        ficção, ouvir música e assistir séries.
+        No tempo livre, gosto de praticar esportes, ler livros e assistir filmes ou séries.
       </p>
     </div>
   </div>
