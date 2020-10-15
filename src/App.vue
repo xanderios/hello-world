@@ -7,7 +7,7 @@
     </h2>
     <div class="text">
       <p class="text-xl sm:text-3xl">
-        Sou um desenvolvedor front-end fluente em inglês, com 4 anos de
+        Sou um desenvolvedor front-end fluente em inglês, com 3 anos de
         experiência.
       </p>
       <p class="text-xl sm:text-3xl">
@@ -33,7 +33,7 @@
       <!-- eslint-disable-next-line prettier/prettier -->
       </p>
       <p class="text-xl sm:text-3xl">
-        No tempo livre, gosto de praticar esportes, ler livros e assistir filmes ou séries.
+        No meu tempo livre, gosto de praticar esportes, ler livros e assistir filmes ou séries 😁.
       </p>
     </div>
   </div>
