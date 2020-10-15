@@ -1,9 +1,9 @@
 <template>
   <div id="app" class="container mx-auto p-16 sm:p-12 lg:pt-20 text-gray-800">
     <vue-headful title="Alexandre - Portfólio" />
-    <h2 class="text-4xl sm:text-6xl font-medium">Olá</h2>
+    <h2 class="text-4xl sm:text-6xl font-medium">Olá 👋</h2>
     <h2 class="text-2xl sm:text-4xl font-medium mt-4">
-      Meu nome é Alexandre
+      Meu nome é Alexandre 🙂
     </h2>
     <div class="text">
       <p class="text-xl sm:text-3xl">
@@ -16,7 +16,7 @@
         JavaScript, 
         <Link text="React" href="https://reactjs.org" />, 
         <Link text="Vue" href="https://vuejs.org" /> e 
-        <Link text="NodeJS" href="https://nodejs.org" />.
+        <Link text="NodeJS" href="https://nodejs.org" />. 💻
       </p>
       <p class="text-xl sm:text-3xl">
         Você pode me encontrar no
@@ -26,14 +26,14 @@
           href="https://www.linkedin.com/in/alexandre-rios-496bb7196/"
         />. Aqui estão alguns de meus projetos:
         <ul>
-          <li><Link text="Boookmarker" href="https://boookmarker.herokuapp.com" /></li>
-          <li><Link text="Offices (senior test)" href="https://github.com/xanderios/senior-frontend-test" /></li>
-          <span class="text-gray-500">Em breve...</span>
+          <li><Link text="Boookmarker" href="https://boookmarker.herokuapp.com" /> 🔖 <span class="text-gray-500 text-lg"></span></li>
+          <li><Link text="Offices" href="https://github.com/xanderios/senior-frontend-test" /> 📌 <span class="text-gray-500 text-lg">(senior test)</span></li>
+          <span class="text-gray-500 text-xl">Em breve...</span>
         </ul>
       <!-- eslint-disable-next-line prettier/prettier -->
       </p>
       <p class="text-xl sm:text-3xl">
-        No meu tempo livre, gosto de praticar esportes, ler livros e assistir filmes ou séries 😁.
+        No meu tempo livre, gosto de praticar esportes, ler livros e assistir filmes, séries ou documentários 😁.
       </p>
     </div>
   </div>
