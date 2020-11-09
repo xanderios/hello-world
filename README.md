@@ -1,4 +1,4 @@
-# Alexandre - Portfólio
+# Alexandre - Portfolio
 
 Personal Portfolio developed in Vue.js to show a bit of my knowledge in regards to development.
 
