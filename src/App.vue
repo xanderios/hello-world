@@ -7,8 +7,7 @@
     </h2>
     <div class="text">
       <p class="text-xl sm:text-3xl">
-        Sou um desenvolvedor front-end fluente em inglês, com 3 anos de
-        experiência, experiente com HTML, CSS, 
+        Sou um desenvolvedor Front-End desde 2018, fluente em inglês, experiente com HTML, CSS, 
         <Link text="Sass" href="https://sass-lang.com"/>, 
         JavaScript, 
         <Link text="React" href="https://reactjs.org" />, 
@@ -30,7 +29,7 @@
       <!-- eslint-disable-next-line prettier/prettier -->
       </p>
       <p class="text-xl sm:text-3xl">
-        No meu tempo livre, gosto de praticar esportes, ler livros e assistir filmes, séries ou até mesmo documentários. 😁
+        No tempo livre, gosto de praticar esportes, estudar e praticar variadas disciplinas(inclusive programação), ler livros, assistir filmes, séries e ouvir músicas. 😁
       </p>
     </div>
   </div>
