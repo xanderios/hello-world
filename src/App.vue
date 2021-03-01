@@ -7,9 +7,7 @@
     </h2>
     <div class="text">
       <p class="text-xl sm:text-3xl">
-        Sou um desenvolvedor Front-End desde 2018, fluente em inglês, experiente com HTML, CSS, 
-        <Link text="Sass" href="https://sass-lang.com"/>, 
-        JavaScript, 
+        Sou um desenvolvedor Front-End desde 2018, fluente em inglês, experiente com HTML, CSS, <Link text="Sass" href="https://sass-lang.com"/>, JavaScript, 
         <Link text="React" href="https://reactjs.org" />, 
         <Link text="Vue" href="https://vuejs.org" /> e 
         <Link text="NodeJS" href="https://nodejs.org" />. 💻
@@ -24,12 +22,13 @@
         <ul>
           <li><Link text="Boookmarker" href="https://boookmarker.herokuapp.com" /> 🔖 <span class="text-gray-500 text-lg"></span></li>
           <li><Link text="Offices" href="https://github.com/xanderios/senior-frontend-test" /> 📌 <span class="text-gray-500 text-lg">(senior test)</span></li>
+          <li><Link text="Moveit" href="https://moveit-reactjs.vercel.app/" /> 🏋️ <span class="text-gray-500 text-lg">(NLW#4)</span></li>
           <span class="text-gray-500 text-xl">Em breve...</span>
         </ul>
       <!-- eslint-disable-next-line prettier/prettier -->
       </p>
       <p class="text-xl sm:text-3xl">
-        No tempo livre, gosto de praticar esportes, estudar e praticar variadas disciplinas(inclusive programação), ler livros, assistir filmes, séries e ouvir músicas. 😁
+        Eu gosto de me manter ocupado, seja estudando ou lendo um livro, ou até mesmo praticando esportes ouvindo música. 😁
       </p>
     </div>
   </div>
@@ -47,15 +46,16 @@ export default {
 </script>
 
 <style lang="scss">
-@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300;500&display=swap");
 
 #app {
   font-family: "Rubik", Avenir, Helvetica, Arial, sans-serif;
+  font-weight: 300;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
   .text p {
-    max-width: 700px;
+    max-width: 705px;
     @apply mt-6;
   }
 }
