@@ -6,7 +6,7 @@
       Meu nome é Alexandre 🙂
     </h2>
     <div class="text">
-      <p class="text-xl sm:text-3xl">
+      <p class="text-xl sm:text-2xl">
         Sou um desenvolvedor Front-End desde 2018, fluente em inglês, experiente com HTML, CSS, <Link text="Sass" href="https://sass-lang.com"/>, JavaScript, 
         <Link text="React" href="https://reactjs.org" />, 
         <Link text="Vue" href="https://vuejs.org" /> e 
