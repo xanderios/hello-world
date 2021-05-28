@@ -24,6 +24,7 @@
           <li><Link text="Intelmais - Website" href="https://www.intelmais.com.br" /> 📱</li>
           <li><Link text="Moveit" href="https://moveit-reactjs.vercel.app/" /> 🏋️ <span class="text-gray-500 text-lg">(<a class="underline" href="https://rocketseat.com.br/">Rocketseat's</a> NLW#4)</span></li>
           <li><Link text="Offices" href="https://github.com/xanderios/senior-frontend-test" /> 📌 <span class="text-gray-500 text-lg">(senior test)</span></li>
+          <li><Link text="Pharma Inc" href="https://github.com/xanderios/coodesh-nuxt-test" /> 💊 <span class="text-gray-500 text-lg">(frontend test)</span></li>
           <li><Link text="Boookmarker" href="https://boookmarker.herokuapp.com" /> 🔖 <span class="text-gray-500 text-lg">(deployed @ <a class="underline" href="https://heroku.com">Heroku</a>)</span></li>
           <span class="text-gray-500 text-xl">Seu projeto aqui...</span>
         </ul>
